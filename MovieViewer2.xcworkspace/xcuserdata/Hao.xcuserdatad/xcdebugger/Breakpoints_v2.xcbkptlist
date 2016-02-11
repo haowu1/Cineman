@@ -9,12 +9,105 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "MovieViewer2/Movie2ViewController.swift"
-            timestampString = "476596499.938914"
+            filePath = "MovieViewer2/MovieCell.swift"
+            timestampString = "476600024.697694"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "83"
-            endingLineNumber = "83"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer2.MovieCell.posterView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "MovieViewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hao/Desktop/MovieViewer2/MovieViewer2/MovieCell.swift"
+                  timestampString = "476600024.704132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer2.MovieCell.posterView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "MovieViewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hao/Desktop/MovieViewer2/MovieViewer2/MovieCell.swift"
+                  timestampString = "476600024.704825"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer2.MovieCell.posterView.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "MovieViewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hao/Desktop/MovieViewer2/MovieViewer2/MovieCell.swift"
+                  timestampString = "476600024.705442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer2.MovieCell.init (MovieViewer2.MovieCell.Type)(style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; MovieViewer2.MovieCell"
+                  moduleName = "MovieViewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hao/Desktop/MovieViewer2/MovieViewer2/MovieCell.swift"
+                  timestampString = "476600024.705637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer2.MovieCell.init (MovieViewer2.MovieCell.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MovieViewer2.MovieCell&gt;"
+                  moduleName = "MovieViewer2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Hao/Desktop/MovieViewer2/MovieViewer2/MovieCell.swift"
+                  timestampString = "476600024.705782"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieViewer2/Movie2ViewController.swift"
+            timestampString = "476761433.616256"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
             landmarkName = "tableView(_:cellForRowAtIndexPath:)"
             landmarkType = "5">
          </BreakpointContent>
