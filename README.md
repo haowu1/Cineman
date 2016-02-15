@@ -11,7 +11,7 @@ The following **required** functionality is complete:
 - [x] User can view a list of movies currently playing in theaters from The Movie Database.
 - [x] Poster images are loaded using the UIImageView category in the AFNetworking library.
 - [x] User sees a loading state while waiting for the movies API.
-- [x] User can pull to refresh the movie list.
+- [ ] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -32,7 +32,7 @@ List anything else that you can get done to improve the app functionality!
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. how to add more functions
-2. 
+2. Had no idea on how to do 3rd and 4th step, since I feel that I lack the needed knowledge on where and how to use the code given. 
 
 ## Video Walkthrough 
 
@@ -68,14 +68,14 @@ Describe any challenges encountered while building the app.
 
 **Cineman** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **13** hours spent in total
+Time spent: **32** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
 - [x] User can view movie details by tapping on a cell.
-- [ ] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
+- [x] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
 - [ ] Customize the selection effect of the cell.
 
 The following **optional** features are implemented:
@@ -90,14 +90,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. how to add a way to let the user purchase tickets
-2. 
+1. No idea how to do step 3. when I was suppose to make a customized effect, since I have zero knowledge on how and where to incorporate the code into mine since I have no idea what to do with it.
+2. Where to get the custom images for the tabs for "Now Playing" and "Top Rated".
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/PIlJPlx.gif' title='Cineman 2.7' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/IaGu9zA.gif' title='Cineman 3.0' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
